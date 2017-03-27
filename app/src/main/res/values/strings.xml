@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="no_network">Please make sure the device is connected to internet</string>
+    <string name="no_data">No data found for this query. Please try a different one</string>
+    <string name="search_above">Perform a search above</string>
+    <string name="search_error">Please enter a search query</string>
+    <string name="book_name">Book Name</string>
+</resources>
