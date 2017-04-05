@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Android](https://img.shields.io/badge/made%20for-android-green.svg)](https://www.android.com/)
 
-Book Listing app takes a text input from user and performs a query for books using Google Books API.
+Book Listing app is one of the project of Udacity's Android Basics Nanodegree Course. The remaining projects can be found [here](https://aakaashjois.github.io/Udacity-Android-Basics-Projects/).
 
 ## License
 This project is licensed under Apache License. See the [LICENSE](LICENSE.md) for details.
